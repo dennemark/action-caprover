@@ -13,6 +13,9 @@ inputs:
   app:
     description: 'App name on CapRover server'
     required: true
+  apptoken:
+    description: 'App token to authenticate if OTP is used'
+    required: false
   branch:
     description: 'Branch to be deployed'
     required: false

@@ -17,6 +17,10 @@ CapRover admin password. Use secret for more security
 
 App name on CapRover server
 
+### `apptoken`
+
+When OTP/2FA is enabled, deploy needs appToken to authenticate.
+
 ### `branch`
 
 Branch which will be deployed
