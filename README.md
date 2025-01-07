@@ -40,6 +40,7 @@ with:
   host: 'https://captain.your-domain.com'
   password: '${{ secrets.CAPROVER_PASSWORD }}'
   app: 'my-app'
+  apptoken: 'YOUR-APP-TOKEN'
   image: 'YOUR-DOCKER-IMAGE-NAME'
 
 ```
