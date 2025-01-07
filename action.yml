@@ -1,4 +1,4 @@
-name: 'CapRover App Deploy'
+name: 'CapRover App Deploy OTP'
 description: 'Deploy application to CapRover server'
 branding:
   icon: 'caprover.svg'
